@@ -1,0 +1,20 @@
+.oddElement {
+  background-color: #eb968b;
+  font-family: verdana, "DejaVu Sans", sans-serif;
+  font-size: 20px;
+}
+
+#secondElement {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.oddElement.cooler {
+  font-size: 24px;
+}
+
+#bold {
+  background-color: #67e667;
+  font-weight: bold;
+  font-size: 24px;
+}
